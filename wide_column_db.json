@@ -1,0 +1,9 @@
+{
+  "users": {
+    "row1": { "name": "Siti Kurnia Ramadhana", "email": "siti@gmail.com", "age": 21, "city": "Makassar" },
+    "row2": { "name": "Muh Iqbal", "email": "iqbal@gmail.com", "age": 22, "city": "Gowa" },
+    "row3": { "name": "Hinata Shoyo", "email": "hinata@gmail.com", "age": 19, "city": "Tokyo" },
+    "row4": { "name": "Minato", "email": "minato@gmail.com", "age": 25, "city": "Konoha" },
+    "row5": { "name": "Killua Zoldyck", "email": "killua@gmail.com", "age": 16, "city": "Zoldyck Estate" }
+    }
+}
