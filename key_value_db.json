@@ -1,0 +1,26 @@
+[
+ {
+    "nama": "Siti Kurnia Ramadhana",
+    "tanggal_lahir": "2002-05-17",
+    "alamat": "Jl. Andalas No. 12, Makassar",
+    "email": "siti.ramadhana@example.com"
+ },
+ {
+    "nama": "Muh Iqbal",
+    "tanggal_lahir": "2001-09-23",
+    "alamat": "Jl. Veteran Selatan, Gowa",
+    "email": "iqbal.muh@example.com"
+ },
+ {
+    "nama": "Hinata Shoyo",
+    "tanggal_lahir": "2003-07-10",
+    "alamat": "Karasuno, Miyagi, Jepang",
+    "email": "hinata.shoyo@example.com"
+ },
+ {
+    "nama": "Killua Zoldyck",
+    "tanggal_lahir": "2004-02-01",
+    "alamat": "Zoldyck Estate, Kukuroo Mountain",
+    "email": "killua.z@example.com"
+ }
+]
